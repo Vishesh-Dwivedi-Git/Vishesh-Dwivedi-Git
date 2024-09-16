@@ -10,7 +10,6 @@
 [![](https://visitcount.itsvg.in/api?id=VisheshDwivedi&icon=5&color=5)](https://visitcount.itsvg.in)
 
 <p align="left">
-  <a href="https://twitter.com/@VisheshDwivedi" target="_blank">
     <img src="" alt="@VisheshDwivedi" />
   </a>
 </p>
