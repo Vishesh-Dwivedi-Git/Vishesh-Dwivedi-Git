@@ -11,7 +11,7 @@
 
 <p align="left">
   <a href="https://twitter.com/@VisheshDwivedi" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/VisheshDwivedi?logo=twitter&style=for-the-badge" alt="@VisheshDwivedi" />
+    <img src="" alt="@VisheshDwivedi" />
   </a>
 </p>
 
