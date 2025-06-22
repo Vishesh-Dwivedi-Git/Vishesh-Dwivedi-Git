@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="./assets/banner2.gif" alt="Banner" />
+  <img src="https://github.com/Vishesh-Dwivedi-Git/Vishesh-Dwivedi-Git/assets/82640789/49922602-7503-42dd-a841-698738fb3854" alt="Banner" />
   <h1 align='center'>
   Hi there, <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50"> I'm Vishesh Dwivedi 👨‍💻
   </h1>
@@ -7,15 +7,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-[![](https://visitcount.itsvg.in/api?id=VisheshDwivedi&icon=5&color=5)](https://visitcount.itsvg.in)
+[!](https://visitcount.itsvg.in)
 
 <p align="left">
-    <img src="" alt="@VisheshDwivedi" />
+    <img src="" alt="@Vishesh-Dwivedi-Git" />
   </a>
 </p>
 
 - 🌱 I’m currently learning **`Full Stack Development & Blockchain`**
-- 💬 Ask me about **`React, Node.js, Solana, MERN Stack, JavaScript, TypeScript, Solidity`**
+- 💬 Ask me about **`React, Node.js, Solana, MERN Stack, JavaScript, TypeScript, Solidity, Rust`**
 - 🚀 Love to talk about **`Blockchain Technology and Decentralized Applications!`**
 - 📝 Checkout my resume
 - 💻 Most used line of code `git commit -m "Initial Commit"`
@@ -86,4 +86,45 @@
 ![Solana](https://img.shields.io/badge/solana-%23424BBF.svg?style=for-the-badge&logo=solana&logoColor=white)
 
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-b
+![Redux](https://img.shields.io/badge/Redux-593D88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+
+<br />
+
+# **🌟 My GitHub Statistics:**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishesh-Dwivedi-Git&show_icons=true&theme=dark&include_all_commits=true&custom_title=My%20GitHub%20Statistics&hide_border=true&card_width=300" alt="GitHub Stats" />
+  <br/>
+  - ⭐ Total Stars: 26
+  - 💾 Total Commits: 3.6k
+  - 🔧 Total PRs: 105
+  - 🐛 Total Issues: 23
+  - 🌍 Contributed to: 37
+</p>
+
+# **📊 My Programming Languages:**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishesh-Dwivedi-Git&layout=compact&theme=dark&hide_border=true&langs_count=8&custom_title=My%20Programming%20Languages&card_width=300" alt="Top Languages" />
+  <br/>
+  - 📝 JavaScript: 67.26%
+  - 🔒 Solidity: 17.99%
+  - 📝 TypeScript: 52%
+  - 🎨 CSS: 5.26%
+  - 📓 Jupyter Notebook: 1.84%
+  - 🦀 Rust: 0.77%
+  - 🌐 EJS: 0.70%
+  - 🐍 Python: 0.64%
+</p>
+
+# **🔗 GitHub Analysis:**
+![GitHub Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishesh-Dwivedi-Git&theme=radical&hide_border=true)
+<br/><br/>
+<p>
+<a href="https://github.com/Vishesh-Dwivedi-Git">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vishesh-Dwivedi-Git&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vishesh-Dwivedi-Git&layout=compact&langs_count=8&theme=blue-green"/>
+</a>
+</p>
+<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishesh-Dwivedi-Git&theme=dark" alt="Vishesh-Dwivedi-Git" /></p>
