@@ -93,15 +93,7 @@
 <br />
 
 # **🌟 My GitHub Statistics:**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishesh-Dwivedi-Git&show_icons=true&theme=dark&include_all_commits=true&custom_title=My%20GitHub%20Statistics&hide_border=true&card_width=300" alt="GitHub Stats" />
-  <br/>
-  - ⭐ Total Stars: 26
-  - 💾 Total Commits: 3.6k
-  - 🔧 Total PRs: 105
-  - 🐛 Total Issues: 23
-  - 🌍 Contributed to: 37
-</p>
+
 
 # **📊 My Programming Languages:**
 <p align="center">
